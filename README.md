@@ -45,4 +45,6 @@ This will be a walkthrough of how to create the particle character in back of th
 - [Youtube Creator with several tutorials on VFX Graph and the Shader Graph](https://www.youtube.com/@GabrielAguiarProd/videos)
 
 ### For more details on Visual effects in Unity
-[The definitive guide to creating advanced visual effects in Unity](https://resources.unity.com/games/definitive-guide-to-creating-visual-effects?ungated=true)
+- [The definitive guide to creating advanced visual effects in Unity](https://resources.unity.com/games/definitive-guide-to-creating-visual-effects?ungated=true)
+
+- [Unity Documentation](https://docs.unity3d.com/Packages/com.unity.visualeffectgraph@12.0/manual/index.html)
